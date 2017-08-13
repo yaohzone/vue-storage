@@ -1,0 +1,13 @@
+{
+	"name": "vue-storage",
+	"version": "0.1.0",
+	"description": "localStorage&sessionStorage for Vue 2.0",
+	"author": "'cyy' <'419738633@qq.com'>",
+	"private": true,
+	"scripts": {
+		"test" : "node ./src/index.js"
+	},
+	"dependencies": {},
+	"devDependencies": {},
+	"main" : "./src/index.js"
+}
