@@ -2,6 +2,7 @@
 
 > localStorage&sessionStorage for Vue 2.0
 
+
 ## How to use
 
 ### Install
