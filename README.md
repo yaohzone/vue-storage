@@ -44,3 +44,9 @@ created () {
 },
 ...
 ```
+
+### Set and get the Object type data directly
+```js
+Vue.session.set('obj',{a:1,b:'some string'})
+Vue.session.get('obj')  // {a:1,b:'some string'}
+```
